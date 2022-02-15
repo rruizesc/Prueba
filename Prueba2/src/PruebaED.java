@@ -6,6 +6,7 @@ public class PruebaED {
 //sjasdfjlfa
 		System.out.println("HOLA que tal");
 		System.out.println("Rama");
+		System.out.println("Rama2");
 	}
 
 }
